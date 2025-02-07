@@ -12,6 +12,11 @@ This repository contains a Python implementation of the PageRank algorithm using
 - **Damping Factor:** Incorporates the damping factor (set to 0.85) to simulate the behavior of a random surfer.
 - **Example Usage:** Includes a simple example with a network of 6 pages and predefined links.
 
+
+## Algorithm
+
+> ![pseudo](https://github.com/user-attachments/assets/cd9d0727-d247-4be7-a50a-55935470bde4)
+
 ## Requirements
 
 - Python 3.6+
