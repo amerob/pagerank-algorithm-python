@@ -36,9 +36,10 @@ This repository contains a Python implementation of the PageRank algorithm using
 3. Run the script:
 
     ```bash
-python main.py
+    python main.py
     ```
- ## Note
+
+## Note
 This code only shows the core concepts behind the PageRank algorithm and provides and serves as a starting point for exploring graph ranking. Contributions are welcome.
 
 
